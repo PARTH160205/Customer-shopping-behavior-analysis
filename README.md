@@ -29,7 +29,8 @@ Using this data, we performed a detailed analysis to answer key business questio
 - **Python** – Pandas, NumPy, Matplotlib, Seaborn  
 - **SQL (PostgreSQL)** – for querying and analyzing structured data  
 - **Jupyter Notebook / VS Code** – for experimentation and visualization  
-- **Excel / CSV** – for data storage and review  
+- **Excel / CSV** – for data storage and review
+- **Power BI** - Data Vizualisation
 
 ## 📈 Business Recommendations
 - Focus marketing on **high-spending age groups**.
@@ -43,6 +44,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 **Parth Inamdar**  
-Data Analyst | SQL & Python Enthusiast  
+Data Analyst  
 📧 https://www.linkedin.com/in/parthinamdar/  
 
