@@ -47,3 +47,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Data Analyst  
 📧 https://www.linkedin.com/in/parthinamdar/  
 
+Live Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiMGFiYmNhODUtMjAyMi00ODg0LTg1MzAtMzcwZDlmNDI4ODQ0IiwidCI6ImM4ZTQyNDhjLTcxNzQtNGIwZS04Y2Q4LTUzNGFhMDhkZjM5NSJ9
